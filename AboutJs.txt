@@ -1,0 +1,18 @@
+JavaScript is backward compatible :-
+    we can still use the old features of JavaScript in our browser.
+
+JavaScript is not a forward compatible:-
+    we can't use new JavaScript features in the old browser.
+
+
+
+<--------------   What is Babel?     ------------->
+Babel is a JavaScript compiler.
+Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a 
+backwards compatible version of JavaScript in current and older browsers or environments.
+
+Want know more about Babel :-   https://babeljs.io/docs/
+
+
+
+JavaScript is a case Sensitive :- all name of character should be same
